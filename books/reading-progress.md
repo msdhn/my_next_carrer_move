@@ -8,8 +8,8 @@ last_updated: 2026-09-12
 
 | Book | Author(s) | Status | Progress | Summary |
 |---|---|---|---|---|
-| [Platform Engineering: A Guide for Technical, Product, and People Leaders](./platform_engineering/Platform_Engineering_Camille_Fournier/Platform_Engineering_Camille_Fournier.pdf) | Camille Fournier & Ian Nowland | 🔵 In progress | 14/14 chapters summarized | [Platform_Engineering_Camille_Fournier_summary.pdf](./platform_engineering/Platform_Engineering_Camille_Fournier/Platform_Engineering_Camille_Fournier_summary.pdf) |
-| [Designing Machine Learning Systems](./platform_engineering/Designing_Machine_Learning_Systems/Designing%20Machine%20Learning%20Systems.pdf) | Chip Huyen | 🟡 Not started | 0/11 chapters | — |
+| [Platform Engineering: A Guide for Technical, Product, and People Leaders](./platform_engineering/Platform_Engineering_Camille_Fournier.pdf) | Camille Fournier & Ian Nowland | 🔵 In progress | 14/14 chapters summarized | [Platform_Engineering_Camille_Fournier_summary.pdf](./platform_engineering/Platform_Engineering_Camille_Fournier_summary.pdf) |
+| [Designing Machine Learning Systems](./platform_engineering/Designing%20Machine%20Learning%20Systems.pdf) | Chip Huyen | 🟡 Not started | 0/11 chapters | — |
 
 ## Status legend
 
